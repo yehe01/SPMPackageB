@@ -1,6 +1,6 @@
 import SPMPackageA
 
-public struct SPMPackageB {
+public struct SPMPackageBStruct {
     public private(set) var text = "Hello, World!"
 
     public init() {
