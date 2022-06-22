@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "spmpackagea",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yehe01/SPMPackageA",
+      "state" : {
+        "revision" : "ba9873b95d71f5477132d39a48c5ab4d6f064ac7",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
