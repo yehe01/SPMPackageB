@@ -6,6 +6,6 @@ final class SPMPackageBTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(SPMPackageB().text, "Hello, World!")
+        XCTAssertEqual(SPMPackageBStruct().text, "Hello, World!")
     }
 }

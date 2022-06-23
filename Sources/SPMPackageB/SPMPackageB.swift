@@ -1,4 +1,4 @@
-import SPMPackageA
+@_implementationOnly import SPMPackageA
 
 public struct SPMPackageBStruct {
     public private(set) var text = "Hello, World!"
